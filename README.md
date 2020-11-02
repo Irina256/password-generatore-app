@@ -7,7 +7,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 
 
-[Github Repository](https://github.com/Irina256/password-generator-app)
+[Github Repository](https://github.com/Irina256/password-generatore-app)
 
 [Deployed GitHub site](https://irina256.github.io/password-generatore-app/)
 
